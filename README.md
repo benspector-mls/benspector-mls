@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @benspector-mls
+- 👀 I’m interested in computer science education
+- 🌱 I’m currently re-learning quite a lot
+- 💞️ I’m looking to collaborate on teaching, learning, creating, you name it!
+- 📫 How to reach me - ben@marcylabschool.org
